@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year **B.Tech CSE** student (5th Semester)
+- 🎓 Final Year **B.Tech CSE** Student (5th Semester)
 - 🔭 Currently working on:
   - Employee Management System
   - Movie App
