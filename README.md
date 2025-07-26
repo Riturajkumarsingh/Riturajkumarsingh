@@ -1,6 +1,8 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm  **Rituraj Kumar Singh** a passionate and self-driven **Full Stack Web Developer** from India 🇮🇳.
 
-Hi there! 👋 I’m **Rituraj Kumar Singh**, a passionate and self-driven **Full Stack Web Developer** from India 🇮🇳.
+Email Me 👉 ✉️ **rksingh1744@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+# 💫 About Me:
 
 🔭 I’m currently working on:
 - 🚀 Building modern and responsive full-stack applications.
