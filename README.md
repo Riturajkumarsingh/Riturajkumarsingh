@@ -75,7 +75,7 @@ I love turning complex ideas into clean, efficient code—and I believe a cup of
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="[https://github.com/Riturajkumarsingh/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
