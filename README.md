@@ -72,13 +72,7 @@ I love turning complex ideas into clean, efficient code—and I believe a cup of
 ![](https://nirzak-streak-stats.vercel.app/?user=Riturajkumarsingh&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riturajkumarsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-<div align="center">
-  <img src="[https://github.com/Riturajkumarsingh/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
