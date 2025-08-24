@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **rksingh1744@gmail.com** For Collaboration/Project or Anyt
 🔭 I’m currently working on:
 - 🚀 Building modern and responsive full-stack applications.
 - 🎯 Developing AI-powered tools and career platforms.
-- 🧠 Exploring deep learning-based projects like **Bollywood Celebrity Face Recognition**.
+- 🧠 Exploring deep learning-based projects like **Genius AI**.
 
 👯 I’m looking to collaborate on:
 - Innovative startups and freelance-based web solutions.
