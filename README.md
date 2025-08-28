@@ -15,9 +15,7 @@ Email Me 👉 ✉️ **rksingh1744@gmail.com** For Collaboration/Project or Anyt
 - Innovative startups and freelance-based web solutions.
 - Scalable B2B/B2C web apps and custom software projects.
 
-🤝 I’m looking for help with:
-- AI/ML model optimization and deployment.
-- Advanced DevOps pipelines and scalable cloud infrastructure.
+
 
 🌱 I’m currently learning:
 - 🧠 Machine Learning & Deep Learning with TensorFlow & PyTorch.
