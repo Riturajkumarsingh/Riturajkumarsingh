@@ -19,7 +19,6 @@ Email Me 👉 ✉️ **rksingh1744@gmail.com** For Collaboration/Project or Anyt
 
 🌱 I’m currently learning:
 - 🧠 Machine Learning & Deep Learning with TensorFlow & PyTorch.
-- ☁️ Cloud services (AWS, GCP) and DevOps tools.
 - ⚙️ System design and scalable architecture.
 
 💬 Ask me about:
